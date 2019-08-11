@@ -9,6 +9,8 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/3.2.student Admin develop/student_sys/student/templates" />
+        <option value="$MODULE_DIR$/5.1venu/typeidea_env/typeidea/Typeidea/Typeidea/templates" />
+        <option value="$MODULE_DIR$/5.2venu/typeidea_env/typeidea/Typeidea/Typeidea/templates" />
       </list>
     </option>
   </component>
