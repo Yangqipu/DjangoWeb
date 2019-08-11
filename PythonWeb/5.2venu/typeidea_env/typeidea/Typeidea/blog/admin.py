@@ -16,6 +16,7 @@ class CategoryAdmin(BaseOwnerAdmin):
     fields = ("name", "status", "is_nav")
 
 
+
 @admin.register(Tag)
 class TagAdmin(BaseOwnerAdmin):
     list_display = ("name", "status", "created_time")
